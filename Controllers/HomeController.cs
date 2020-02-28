@@ -141,7 +141,7 @@ namespace petpet.Controllers
                     peturl = "/images/FireDeer.png"; // Deer
                     break;
                 case 4:
-                    peturl = "/images/FireDeer.png"; // Penguin
+                    peturl = "/images/babypenguin.png"; // Penguin
                     break;
                 default:
                     break;
@@ -173,7 +173,7 @@ namespace petpet.Controllers
                         peturl = "/images/FireDeer.png"; // Deer
                         break;
                     case 4:
-                        peturl = "/images/FireDeer.png"; // Penguin
+                        peturl = "/images/babypenguin.png"; // Penguin
                         break;
                     default:
                         break;
